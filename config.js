@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "anhthichhntlamdo",
+    titleWeb: "hntngonvailoz",
     introTitle: 'Ha Ngoc Tu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    introDesc: `nhấp "ok" nếu m là ngiu t`,
+    btnIntro: 'ok',
+    title: 'em bé hứa với anh là sau này không được mắng đuổi anh nữa nha?',
+    desc: 'anh yêu cục cưng của anh nhiều lắm đó, muốn ở với cục cưng 24/7, ôm cục cưng ngủ cả ngày',
+    btnYes: 'vâng ạ',
+    btnNo: 'mơ à?',
+    question: 'thật lòng nhé, sao em yêu anh v?',
+    btnReply: 'send.',
+    reply: 'do chồng iu của em đz vcl, em bé mê lắm',
+    mess: 'Cảm ơn em bé đã luôn bên anh, ngay cả khi anh k còn múi. Mong rằng em bé sẽ luôn vui vẻ, k được khóc nhè nữa đâu nha',
+    messDesc: 'cùng nhau cố gắng nhé',
+    btnAccept: 'vâng ạ :3',
+    messLink: 'https://www.facebook.com/profile.php?id=100068784535079' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
